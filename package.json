@@ -1,5 +1,5 @@
 {
-	"name": "Capsule",
+	"name": "capsule",
 	"version": "0.0.1",
 	"description": "A framework to help you create a multiplayer game using socket.io",
 	"keywords": ["game", "real-time", "multiplayer"],
