@@ -13,8 +13,8 @@ Documentation is coming
 - A bunch of other neat things
 
 Sources of inspiration:
-https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
-http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
+- https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+- http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
 
 ## TODO: 
 - Documentation
