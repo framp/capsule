@@ -1,8 +1,13 @@
 capsule
 =======
-A framework to help you create a multiplayer game using socket.io
 
-Documentation is coming
+Update: This is pretty much outdated and badly working. It should be rewritten to use primus and there are loads of nasty bugs to fix.
+
+Nothing fancy to see here!
+
+________________________________________________________
+
+A framework to help you create a multiplayer game using socket.io
 
 ## Features
 - A powerful hooks system to customize your game
